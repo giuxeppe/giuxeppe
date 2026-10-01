@@ -23,13 +23,13 @@ Here are some ideas to get you started:
 
   <!-- Contact & Social Links -->
   <p>
-    <a href="https://www.linkedin.com/in/[your-linkedin]/">
+    <a href="https://www.linkedin.com/in/giuseppe-marchio">
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     <a href="mailto:[your.email@domain.com]">
       <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
     </a>
-    <a href="https://kaggle.com/[your-kaggle]">
+    <a href="https://www.kaggle.com/giuseppemarchio">
       <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white" alt="Kaggle" />
     </a>
   </p>
