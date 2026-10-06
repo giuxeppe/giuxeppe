@@ -28,7 +28,7 @@ I build practical software, explore AI and deep learning, and focus on clean, hi
 
 ### 🔬 Core Interests
 
-* 🧠 &nbsp; **Deep Learning & Applied AI**
+* 🤖 &nbsp; **Deep Learning & Applied AI**
 
 * 👁️ &nbsp; **Advanced Machine Learning & Computer Vision**
 
