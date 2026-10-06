@@ -38,21 +38,27 @@ Driven by curiosity and a builder mindset, I focus on transforming theoretical m
 
 ### 🎓 Education & Academic Background
 
-* 🧠 **M.Sc. in Computer Science** — *Sapienza Università di Roma*  
-  📅 *Sep 2025 – Present*  
-  🔍 **Key Areas:** Artificial Intelligence, Advanced Operating Systems (Linux, Concurrency), Computer Networks (TCP/IP Protocols).
+> 🧠 **M.Sc. in Computer Science**  
+> **Sapienza Università di Roma** • *Sep 2025 – Present*  
+> *Core: Artificial Intelligence, Distributed Systems & Operating Systems*
 
-* 🎓 **B.Sc. in Computer & Control Engineering** *(Ingegneria Informatica e Automatica)* — *Sapienza Università di Roma*  
-  📅 *Sep 2021 – Oct 2025* • **Grade: 100 / 110**  
-  📜 **Thesis:** *"InfoStud 3.0: Academic Information System for Digital Management & Multi-User UX"* — **Evaluated: "Ottima"**  
-  🔍 **Focus:** Software Architecture, Object-Oriented Design, Control Systems, Network Engineering.
+<br />
 
-* 🏫 **High School Diploma in Computer Science & Telecom** *(I.T.T.S.)* — *I.T.I.S. "E. Scalfaro", Catanzaro*  
-  📅 *Sep 2016 – Jun 2021* • **Grade: 100 / 100**  
-  🔍 **Focus:** OOP, Database Systems (SQL/MySQL), Systems & Network Architectures.
+> 🎓 **B.Sc. in Computer & Control Engineering**  
+> **Sapienza Università di Roma** • *Sep 2021 – Oct 2025* • **Grade: 100 / 110**  
+> *Thesis: "InfoStud 3.0" (Evaluated: "Ottima")*
 
-* 📚 **Advanced Studies in Mathematics & Computer Science** — *Università della Calabria (UNICAL)*  
-  🔍 **Focus:** Advanced Java Programming, Applied Discrete Mathematics & Algorithmic Foundations.
+<br />
+
+> 🏫 **High School Diploma in Computer Science**  
+> **I.T.I.S. "E. Scalfaro" - Catanzaro** • *Sep 2016 – Jun 2021* • **Grade: 100 / 100**  
+> *Core: Object-Oriented Programming, Databases & Networking*
+
+<br />
+
+> 📚 **Advanced Studies in Computer Science & Math**  
+> **Università della Calabria (UNICAL)**  
+> *Core: Advanced Java & Algorithmic Foundations*
 
 
 ---
