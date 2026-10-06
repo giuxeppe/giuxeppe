@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,24,36&height=210&section=header&text=Giuseppe%20Marchiò&fontSize=42&fontAlignY=38&desc=Computer%20Engineer%20%7C%20M.Sc.%20in%20Computer%20Science%20@%20Sapienza&descAlignY=62&descSize=18&fontColor=ffffff" width="100%" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,24,36&height=210&section=header&text=Giuseppe%20Marchio&fontSize=42&fontAlignY=38&desc=Computer%20Engineer%20%7C%20M.Sc.%20in%20Computer%20Science%20@%20Sapienza&descAlignY=62&descSize=18&fontColor=ffffff" width="100%" alt="Header" />
 
   <p align="center">
     <a href="https://linkedin.com/in/giuseppe-marchio"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -135,5 +135,5 @@ I am always interested in discussing cutting-edge research, collaborating on inn
 ---
 
 <div align="center">
-  <sub>⭐️ Designed with precision & passion • Built by Giuseppe Marchiò</sub>
+  <sub>⭐️ Designed with precision & passion • Built by Giuseppe Marchio</sub>
 </div>
