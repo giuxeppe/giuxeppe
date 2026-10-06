@@ -30,7 +30,7 @@ I build practical software, explore AI and deep learning, and focus on clean, hi
 
 * 🤖 &nbsp; **Deep Learning & Applied AI**
 
-* 👁️ &nbsp; **Advanced Machine Learning & Computer Vision**
+* 👁️ &nbsp; **Machine Learning & Computer Vision**
 
 * 📊 &nbsp; **Data Science & Analytics**
 
