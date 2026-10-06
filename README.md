@@ -25,14 +25,14 @@ I build practical software, explore AI and deep learning, and focus on clean, hi
 
 ---
 
-### 🔬 Core Interests & Focus Areas
+### 🔬 Core Interests
 
-* 🤖 **Machine Learning & Deep Learning:** Generative models, neural representation, training optimization, and model compression.
-* 📊 **Data Science:** Feature engineering, end-to-end data pipelines, exploratory analytics, and statistical modeling.
-* 👁️ **Computer Vision:** Object detection/tracking, real-time visual perception, image restoration, and multimodal models.
-* ☁️ **Distributed & Cloud Systems:** Microservices, resilient message queues, containerization, and low-latency edge deployment.
-* 🛡️ **AI Safety & Security:** Robustness against adversarial attacks, alignment, model interpretability, and ethical AI development.
-* ⚡ **Algorithms & Complexity:** High-performance computing, data structures, graph theory, and algorithmic problem-solving.
+* 🤖 **Machine Learning & Deep Learning**
+* 📊 **Data Science**
+* 👁️ **Computer Vision**
+* ☁️ **Distributed & Cloud Systems**
+* 🛡️ **AI Safety & Security**
+* ⚡ **Algorithms & Complexity**
 
 ---
 
