@@ -68,7 +68,7 @@ I build practical software, explore AI and deep learning, and focus on clean, hi
 
 * 🌍 &nbsp; **International Program:** *Erasmus+ KA102 (London, UK)* — Project **UP-ITC** (*Upgrading of Industrial and Technological Competences*).
 
-* 🇬🇧 &nbsp; **Language Certification:** *OLS English B1 Certification* — **European Union**.
+* :uk: &nbsp; **Language Certification:** *OLS English B1 Certification* — **European Union**.
 
 * 🤝 &nbsp; **Volunteering:** Retail Assistant & Community Support at *Mind* (London, UK).
 
