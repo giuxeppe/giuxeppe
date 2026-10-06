@@ -90,26 +90,6 @@ Driven by curiosity and a builder mindset, I focus on transforming theoretical m
 
 ---
 
-### 📊 Real-Time GitHub Analytics
-
-<div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=giuxeppe&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Giuseppe's GitHub Stats" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=giuxeppe&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
-
-  <br />
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=giuxeppe&theme=tokyonight&hide_border=true" alt="Streak Stats" />
-</div>
-
----
 
 ### 📬 Get In Touch
 
