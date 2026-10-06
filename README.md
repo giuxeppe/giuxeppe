@@ -40,7 +40,7 @@ I build practical software, explore AI and deep learning, and focus on clean, hi
 
 > #### 🧠 **M.Sc. in Computer Science**  
 > **Sapienza Università di Roma** &nbsp;|&nbsp; *Sep 2025 – Present*  
-> **Focus:** Artificial Intelligence, Distributed Systems & Operating Systems
+> **Focus:** Artificial Intelligence and Data Science
 
 > #### 🎓 **B.Sc. in Computer & Control Engineering**  
 > **Sapienza Università di Roma** &nbsp;|&nbsp; *Sep 2021 – Oct 2025* &nbsp;|&nbsp; **Grade: 100 / 110**  
@@ -50,9 +50,9 @@ I build practical software, explore AI and deep learning, and focus on clean, hi
 > **I.T.I.S. "E. Scalfaro" - Catanzaro** &nbsp;|&nbsp; *Sep 2016 – Jun 2021* &nbsp;|&nbsp; **Grade: 100 / 100**  
 > **Focus:** Object-Oriented Programming, Databases & Networking
 
-> #### 📚 **Advanced Studies in Computer Science & Math**  
+> #### 📚 **Academic Enrichment in Mathematics & Computer Science**  
 > **Università della Calabria (UNICAL)**  
-> **Focus:** Advanced Java & Algorithmic Foundations
+> **Focus:** Deepening foundational mathematics, computer science concepts & Java programming
 
 
 ---
