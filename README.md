@@ -9,30 +9,36 @@
     <a href="mailto:noreply@github.com"><img src="https://img.shields.io/badge/Email-noreply-lightgrey?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   </p>
 
-
 </div>
 
 ---
 
 ### 👨‍💻 About Me
 
-I am a **Computer Engineer** pursuing an **M.Sc. in Computer Science** at **Sapienza University of Rome**.  
+<p style="font-size: 16px; line-height: 1.8;">
+I am a <b>Computer Engineer</b> pursuing an <b>M.Sc. in Computer Science</b> at <b>Sapienza University of Rome</b>.<br />
 I build practical software, explore AI and deep learning, and focus on clean, high-performance systems.
+</p>
 
-* 📍 **Location:** Rome, Italy  
-* 🎯 **Current Focus:** Deep Learning, Distributed Systems, and AI Security.  
-* ⚡ **Approach:** Practical engineering, solid fundamentals, continuous learning.
+* 📍 &nbsp; **Location:** Rome, Italy  
+* 🎯 &nbsp; **Current Focus:** Deep Learning, Distributed Systems, and AI Security.  
+* ⚡ &nbsp; **Approach:** Practical engineering, solid fundamentals, continuous learning.
 
 ---
 
 ### 🔬 Core Interests
 
-* 🤖 **Machine Learning & Deep Learning**
-* 📊 **Data Science**
-* 👁️ **Computer Vision**
-* ☁️ **Distributed & Cloud Systems**
-* 🛡️ **AI Safety & Security**
-* ⚡ **Algorithms & Complexity**
+* 🤖 &nbsp; **Machine Learning & Deep Learning**
+
+* 📊 &nbsp; **Data Science**
+
+* 👁️ &nbsp; **Computer Vision**
+
+* ☁️ &nbsp; **Distributed & Cloud Systems**
+
+* 🛡️ &nbsp; **AI Safety & Security**
+
+* ⚡ &nbsp; **Algorithms & Complexity**
 
 ---
 
@@ -42,27 +48,35 @@ I build practical software, explore AI and deep learning, and focus on clean, hi
 > **Sapienza Università di Roma** &nbsp;|&nbsp; *Sep 2025 – Present*  
 > **Focus:** Artificial Intelligence and Data Science
 
+<br />
+
 > #### 🎓 **B.Sc. in Computer & Control Engineering**  
 > **Sapienza Università di Roma** &nbsp;|&nbsp; *Sep 2021 – Oct 2025* &nbsp;|&nbsp; **Grade: 100 / 110**  
 > **Thesis:** *"Infostud 3.0: l'evoluzione del sistema informativo accademico per la gestione digitale e l'interazione multiutente"*
+
+<br />
 
 > #### 🏫 **High School Diploma in Computer Science**  
 > **I.T.I.S. "E. Scalfaro" - Catanzaro** &nbsp;|&nbsp; *Sep 2016 – Jun 2021* &nbsp;|&nbsp; **Grade: 100 / 100**  
 > **Focus:** Object-Oriented Programming, Databases & Networking
 
+<br />
+
 > #### 📚 **Academic Enrichment in Mathematics & Computer Science**  
 > **Università della Calabria (UNICAL)**  
 > **Focus:** Deepening foundational mathematics, computer science concepts & Java programming
-
 
 ---
 
 ### 📜 Certifications & International Experience
 
-* 🤖 **Industrial Robotics:** *Robotics Course - Use & Programming for C5G Robots* — **Comau** (Automatic Control Theory, Robot Kinematics & Scripting).
-* 🌍 **International Program:** *Erasmus+ KA102 (London, UK)* — Project **UP-ITC** (*Upgrading of Industrial and Technological Competences*).
-* 🇬🇧 **Language Certification:** *OLS English B1 Certification* — **European Union**.
-* 🤝 **Volunteering:** Retail Assistant & Community Support at *Mind* (London, UK).
+* 🤖 &nbsp; **Industrial Robotics:** *Robotics Course - Use & Programming for C5G Robots* — **Comau** (Automatic Control Theory, Robot Kinematics & Scripting).
+
+* 🌍 &nbsp; **International Program:** *Erasmus+ KA102 (London, UK)* — Project **UP-ITC** (*Upgrading of Industrial and Technological Competences*).
+
+* 🇬🇧 &nbsp; **Language Certification:** *OLS English B1 Certification* — **European Union**.
+
+* 🤝 &nbsp; **Volunteering:** Retail Assistant & Community Support at *Mind* (London, UK).
 
 ---
 
@@ -100,10 +114,11 @@ I build practical software, explore AI and deep learning, and focus on clean, hi
 
 ---
 
-
 ### 📬 Get In Touch
 
+<p style="line-height: 1.8;">
 I am always interested in discussing cutting-edge research, collaborating on innovative projects, or chatting about emerging technologies.
+</p>
 
 <p align="center">
   <a href="https://linkedin.com/in/giuseppe-marchio">
