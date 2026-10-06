@@ -16,12 +16,12 @@
 
 ### 👨‍💻 About Me
 
-I am a **Computer Engineer** and currently a **Master's Student in Computer Science** at **Sapienza University of Rome**.  
-Driven by curiosity and a builder mindset, I focus on transforming theoretical models into robust, high-performance systems. I bridge the gap between applied algorithmic research and scalable software architecture—with a strong focus on efficiency, reliability, and security.
+I am a **Computer Engineer** pursuing an **M.Sc. in Computer Science** at **Sapienza University of Rome**.  
+I build practical software, explore AI and deep learning, and focus on clean, high-performance systems.
 
 * 📍 **Location:** Rome, Italy  
-* 🎯 **Current Focus:** Deep Learning architectures, scalable cloud infrastructure, and AI safety.  
-* ⚡ **Philosophy:** Clean code, modular architectures, and continuous hands-on experimentation.
+* 🎯 **Current Focus:** Deep Learning, Distributed Systems, and AI Security.  
+* ⚡ **Approach:** Practical engineering, solid fundamentals, continuous learning.
 
 ---
 
@@ -39,26 +39,34 @@ Driven by curiosity and a builder mindset, I focus on transforming theoretical m
 ### 🎓 Education & Academic Background
 
 > 🧠 **M.Sc. in Computer Science**  
-> **Sapienza Università di Roma** • *Sep 2025 – Present*  
-> *Core: Artificial Intelligence, Distributed Systems & Operating Systems*
+>
+> **Sapienza Università di Roma** &nbsp;|&nbsp; *Sep 2025 – Present*  
+>
+> *Focus: Artificial Intelligence, Distributed Systems & Operating Systems*
 
 <br />
 
 > 🎓 **B.Sc. in Computer & Control Engineering**  
-> **Sapienza Università di Roma** • *Sep 2021 – Oct 2025* • **Grade: 100 / 110**  
-> *Thesis: "InfoStud 3.0" (Evaluated: "Ottima")*
+>
+> **Sapienza Università di Roma** &nbsp;|&nbsp; *Sep 2021 – Oct 2025* &nbsp;|&nbsp; **Grade: 100 / 110**  
+>
+> *Thesis: "InfoStud 3.0" — Evaluated with honors ("Ottima")*
 
 <br />
 
 > 🏫 **High School Diploma in Computer Science**  
-> **I.T.I.S. "E. Scalfaro" - Catanzaro** • *Sep 2016 – Jun 2021* • **Grade: 100 / 100**  
-> *Core: Object-Oriented Programming, Databases & Networking*
+>
+> **I.T.I.S. "E. Scalfaro" - Catanzaro** &nbsp;|&nbsp; *Sep 2016 – Jun 2021* &nbsp;|&nbsp; **Grade: 100 / 100**  
+>
+> *Focus: Object-Oriented Programming, Databases & Networking*
 
 <br />
 
 > 📚 **Advanced Studies in Computer Science & Math**  
+>
 > **Università della Calabria (UNICAL)**  
-> *Core: Advanced Java & Algorithmic Foundations*
+>
+> *Focus: Advanced Java & Algorithmic Foundations*
 
 
 ---
