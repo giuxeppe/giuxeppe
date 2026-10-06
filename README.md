@@ -1,65 +1,139 @@
-<!-- ## Hi there, I'm Giuseppe 👋
-
-<!--
-**giuxeppe/giuxeppe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
 <div align="center">
-  <h1>Hi, I'm Giuseppe 👋</h1>
-  <h3><b>Computer Engineer | M.Sc. in Computer Science (AI & Data Science)</b></h3>
-  <p><i>Building production-ready Deep Learning models, Computer Vision pipelines, and intelligent AI workflows.</i></p>
 
-  <!-- Contact & Social Links -->
-  <p>
-    <a href="https://www.linkedin.com/in/giuseppe-marchio">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    <a href="mailto:[your.email@domain.com]">
-      <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
-    </a>
-    <a href="https://www.kaggle.com/giuseppemarchio">
-      <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white" alt="Kaggle" />
-    </a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,24,36&height=210&section=header&text=Giuseppe%20Marchiò&fontSize=42&fontAlignY=38&desc=Computer%20Engineer%20%7C%20M.Sc.%20in%20Computer%20Science%20@%20Sapienza&descAlignY=62&descSize=18&fontColor=ffffff" width="100%" alt="Header" />
+
+  <p align="center">
+    <a href="https://linkedin.com/in/giuseppe-marchio"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="https://github.com/giuxeppe"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+    <a href="https://www.kaggle.com/giuseppemarchio"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" /></a>
+    <a href="mailto:marchio.giuseppe01@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   </p>
+
+  <p align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3000&pause=1000&color=00F5D4&center=true&vCenter=true&width=620&lines=Passionate+about+AI+%26+Deep+Learning;Building+Scalable+Cloud+%26+Distributed+Systems;Computer+Vision+%26+High-Performance+Algorithms;M.Sc.+Computer+Science+Student+at+Sapienza" alt="Typing SVG" />
+  </p>
+
 </div>
 
 ---
 
-### ⚡ About Me
+### 👨‍💻 About Me
 
-I am a **Computer Engineer** currently completing my **M.Sc. in Computer Science (AI & Data Science)** at **Sapienza University of Rome**. My work sits at the intersection of applied machine learning research and practical systems engineering—taking complex neural architectures from theoretical modeling to low-latency, real-world execution.
+I am a **Computer Engineer** and currently a **Master's Student in Computer Science** at **Sapienza University of Rome**.  
+Driven by curiosity and a builder mindset, I focus on transforming theoretical models into robust, high-performance systems. I bridge the gap between applied algorithmic research and scalable software architecture—with a strong focus on efficiency, reliability, and security.
 
-* 🔬 **Current Focus:** Deep Learning for generative audio restoration, real-time Computer Vision, and multimodal AI orchestration.
-* 🧠 **AI Workflows:** Designing modular LLM pipelines, custom agent tooling via the **Model Context Protocol (MCP)**, and automated orchestration with **Flowise**.
-* 🖥️ **Systems & Edge:** Managing self-hosted Linux infrastructure, headless Raspberry Pi cloud services (`systemd`, SSH), and embedded hardware prototyping.
-
----
-
-### 🛠️ Technical Stack
-
-| Domain | Technologies & Tools |
----
-
-### 🚀 Featured Projects & Research
+* 📍 **Location:** Rome, Italy  
+* 🎯 **Current Focus:** Deep Learning architectures, scalable cloud infrastructure, and AI safety.  
+* ⚡ **Philosophy:** Clean code, modular architectures, and continuous hands-on experimentation.
 
 ---
 
-### 📈 GitHub Activity & Metrics
+### 🔬 Core Interests & Focus Areas
+
+* 🤖 **Machine Learning & Deep Learning:** Generative models, neural representation, training optimization, and model compression.
+* 📊 **Data Science:** Feature engineering, end-to-end data pipelines, exploratory analytics, and statistical modeling.
+* 👁️ **Computer Vision:** Object detection/tracking, real-time visual perception, image restoration, and multimodal models.
+* ☁️ **Distributed & Cloud Systems:** Microservices, resilient message queues, containerization, and low-latency edge deployment.
+* 🛡️ **AI Safety & Security:** Robustness against adversarial attacks, alignment, model interpretability, and ethical AI development.
+* ⚡ **Algorithms & Complexity:** High-performance computing, data structures, graph theory, and algorithmic problem-solving.
+
+---
+
+### 🎓 Academic Background
+
+```
+┌────────────────────────────────────────────────────────────────────────────────────────┐
+│  🎓 M.Sc. in Computer Science                                                          │
+│     Sapienza University of Rome  •  Currently Enrolled                                │
+│     Focus: Artificial Intelligence, Data Science & Advanced Computing                  │
+├────────────────────────────────────────────────────────────────────────────────────────┤
+│  🎓 B.Sc. in Computer & Control Engineering                                            │
+│     Sapienza University of Rome  •  Grade: 100 / 110                                    │
+│     Solid foundations in systems, automation, networks, and software engineering       │
+├────────────────────────────────────────────────────────────────────────────────────────┤
+│  🏫 High School Diploma in Computer Science & Telecommunications                      │
+│     I.T.I.S. "E. Scalfaro" - Catanzaro  •  Grade: 100 / 100                            │
+│     Early start in programming, electronics, and network protocols                     │
+└────────────────────────────────────────────────────────────────────────────────────────┘
+```
+
+---
+
+### 🛠️ Tech Stack & Toolkit
+
+#### 💻 Languages
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" alt="C" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" alt="Bash" />
+</p>
+
+#### 🧠 AI, Machine Learning & Vision
+<p>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face" />
+</p>
+
+#### ☁️ Cloud, DevOps & Distributed Systems
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+</p>
+
+---
+
+### 📊 Real-Time GitHub Analytics
+
+<div align="center">
+  <table border="0">
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=giuxeppe&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Giuseppe's GitHub Stats" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=giuxeppe&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
+
+  <br />
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=giuxeppe&theme=tokyonight&hide_border=true" alt="Streak Stats" />
+</div>
+
+---
+
+### 📬 Get In Touch
+
+I am always interested in discussing cutting-edge research, collaborating on innovative projects, or chatting about emerging technologies.
+
+<p align="center">
+  <a href="https://linkedin.com/in/giuseppe-marchio">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:marchio.giuseppe01@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Drop_a_line-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/giuxeppe">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
 
 ---
 
 <div align="center">
-  <sub>📍 Based in Rome, Italy • Open to AI/ML Engineering, Data Science & R&D collaborations.</sub>
+  <sub>⭐️ Designed with precision & passion • Built by Giuseppe Marchiò</sub>
 </div>
