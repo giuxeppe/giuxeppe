@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:15803d,50:10b981,100:34d399&height=210&section=header&text=Giuseppe%20Marchio&fontSize=42&fontAlignY=38&desc=Computer%20Engineer%20%7C%20M.Sc.%20in%20Computer%20Science%20@%20Sapienza&descAlignY=62&descSize=18&fontColor=ffffff" width="100%" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:15803d,50:10b981,100:34d399&height=250&section=header&text=Giuseppe%20Marchio&fontSize=42&fontAlignY=33&desc=Computer%20Engineer%20%7C%20M.Sc.%20in%20Computer%20Science%20@%20Sapienza&descAlignY=55&descSize=18&fontColor=ffffff" width="100%" alt="Header" />
 
   <p align="center">
     <a href="https://linkedin.com/in/giuseppe-marchio"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
