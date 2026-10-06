@@ -21,7 +21,7 @@ I build practical software, explore AI and deep learning, and focus on clean, hi
 </p>
 
 * 📍 &nbsp; **Location:** Rome, Italy  
-* 🎯 &nbsp; **Current Focus:** Deep Learning, Distributed Systems, and AI Security.  
+* 🎯 &nbsp; **Current Focus:** Deep Learning, Autonomous Networking, Distributed and Biometric Systems. 
 * ⚡ &nbsp; **Approach:** Practical engineering, solid fundamentals, continuous learning.
 
 ---
